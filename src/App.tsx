@@ -14,8 +14,8 @@ const TEACHERS = [
 ];
 
 const BUTTON_COLORS = [
-  '#E0F2FE', '#DBEAFE', '#E0E7FF', '#CFFAFE', 
-  '#BFDBFE', '#BAE6FD', '#C7D2FE', '#A5F3FC'
+  '#FFADAD', '#FFD6A5', '#FDFFB6', '#CAFFBF', 
+  '#9BF6FF', '#A0C4FF', '#BDB2FF', '#FFC6FF'
 ];
 
 export default function App() {
@@ -59,8 +59,8 @@ export default function App() {
         <div className="flex items-center gap-3 md:gap-4 w-full md:w-auto">
           <div className="w-10 h-10 md:w-12 md:h-12 bg-white rounded-full flex items-center justify-center text-xl md:text-2xl shadow-inner shrink-0">🏢</div>
           <div>
-            <h1 className="text-xl md:text-3xl font-black tracking-tight text-vibrant-text leading-tight">화원고등학교 스마트 교무실</h1>
-            <p className="text-[10px] md:text-sm font-bold text-slate-600">방문을 환영합니다. 선생님 성함을 눌러주세요.</p>
+            <h1 className="text-xl md:text-3xl font-black tracking-tight text-[#444] leading-tight">화원고등학교 스마트 교무실</h1>
+            <p className="text-[10px] md:text-sm font-bold text-[#8B732D]">방문을 환영합니다. 선생님 성함을 눌러주세요.</p>
           </div>
         </div>
         <div className="text-center md:text-right text-vibrant-text flex md:flex-col items-center md:items-end gap-4 md:gap-0 w-full md:w-auto justify-between md:justify-center border-t md:border-t-0 border-black/5 pt-2 md:pt-0">
