@@ -1,0 +1,6 @@
+{
+  "name": "Smart Teacher Caller",
+  "description": "A terminal for school office entrances allowing students to call teachers via voice (TTS) and visual feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
