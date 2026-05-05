@@ -4,12 +4,12 @@
 @theme {
   --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
   
-  --color-vibrant-bg: #F9F7F2;
-  --color-vibrant-header: #FFD966;
-  --color-vibrant-header-border: #F4B400;
-  --color-vibrant-footer: #E0E0E0;
-  --color-vibrant-accent: #4CAF50;
-  --color-vibrant-text: #2D3436;
+  --color-vibrant-bg: #F0F9FF;
+  --color-vibrant-header: #BAE6FD;
+  --color-vibrant-header-border: #7DD3FC;
+  --color-vibrant-footer: #F1F5F9;
+  --color-vibrant-accent: #0284C7;
+  --color-vibrant-text: #0F172A;
 }
 
 @layer base {
